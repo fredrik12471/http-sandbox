@@ -3,3 +3,4 @@
 <p>20191012-00:18:05: Account with id: 253800788 was suspended.</p>
 <p>20191014-00:01:11: Account with id: 204501808 was suspended.</p>
 <p>20191016-00:01:14: Account with id: 418756780 was suspended.</p>
+<p>20191017-00:01:19: Account with id: 500604494 was suspended.</p>
