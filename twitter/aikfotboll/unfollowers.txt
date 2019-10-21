@@ -6,3 +6,4 @@
 <p>20191017-00:01:19: Account with id: 500604494 was suspended.</p>
 <p>20191020-00:01:16: Patrik <a href="https://twitter.com/patwer1">(@patwer1, id: 43910385)</a> unfollowed.</p>
 <div class="container left"><div class="content"><h2>20191021-00:01:10</h2><p>Jonatan Cairenius <a href="https://twitter.com/HolyJonte">(@HolyJonte, id: 82308673)</a> unfollowed.</p></div></div>
+<div class="container left"><div class="content"><h2>20191022-00:01:03</h2><p>Account with id: 580071131 was suspended.</p></div></div>
