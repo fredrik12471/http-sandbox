@@ -1,3 +1,0 @@
-<div class="container left"><div class="content"><h2>20191012-00:18:05</h2><p>Account with id: 2194519744 was suspended.</p></div></div>
-<div class="container left"><div class="content"><h2>20191012-00:18:05</h2><p>Account with id: 1169119172573319168 was suspended.</p></div></div>
-<div class="container left"><div class="content"><h2>20191014-00:01:11</h2><p>Mehmet Sercan Öğe 🇹🇷 <a href="https://twitter.com/MehmetSercanOge">(@MehmetSercanOge, id: 464989762)</a> unfollowed.</p></div></div>
